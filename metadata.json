@@ -1,0 +1,8 @@
+{
+  "name": "Remix panda Interactive Customer Experience محدث",
+  "description": "An interactive customer experience featuring surveys and a Panda challenge game to win prizes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
